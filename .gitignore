@@ -1,0 +1,14 @@
+# Generated build output and dependencies
+target/
+build/
+cmake-build-*/
+node_modules/
+
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local editor settings
+.vscode/
